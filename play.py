@@ -2,12 +2,6 @@ import webbrowser
 
 # create a list with song name and link
 
-# List
-# song_list = [
-# 	{"tere naam" : "123"},
-# 	{"odhi odh ke" : "234"}
-# 	]
-
 # Dictionary
 song_list = {
 	"tere naam" : "OMoU0Pfibc4",
@@ -19,7 +13,6 @@ song_list = {
 	"dekha tujhe to" : "cUVUs7M9TS0"
 	# "" : ""
 	}
-
 # End dictionary
 
 song_name_input = input("Enter song name: ")
