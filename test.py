@@ -1,1 +1,1 @@
-print("ssh key added")
+print("test")
