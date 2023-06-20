@@ -1,5 +1,7 @@
 import random
- 
+import time
+start_time = time.time() 
+
 rand_list=[]
 n=10
 for i in range(n):
@@ -53,3 +55,4 @@ print(rand_list)
 input('')
 print(sum(rand_list))
 print('')
+print("--- %s seconds ---" % round((time.time() - start_time)))
